@@ -2,20 +2,20 @@ import java.util.*;
 
 class Solution {
     public long repairCars(int[] ranks, int cars) {
-        Arrays.sort(ranks); // Sorting mechanics for better efficiency
+        Arrays.sort(ranks);
 
-        long left = 1, right = (long) ranks[0] * (long) cars * cars; // Search range
+        long left = 1, right = (long) ranks[0] * (long) cars * cars;
         
         while (left < right) {
             long mid = left + (right - left) / 2;
             if (canRepairInTime(ranks, cars, mid)) {
-                right = mid; // Try a smaller time
+                right = mid;
             } else {
-                left = mid + 1; // Increase time
+                left = mid + 1;
             }
         }
 
-        return left; // Minimum time to repair all cars
+        return left;
     }
 
     private boolean canRepairInTime(int[] ranks, int cars, long maxTime) {
