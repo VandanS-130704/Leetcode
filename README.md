@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/VandanS-130704/Leetcode/tree/master/0258-add-digits) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VandanS-130704/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VandanS-130704/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VandanS-130704/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/VandanS-130704/Leetcode/tree/master/0258-add-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VandanS-130704/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/VandanS-130704/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
