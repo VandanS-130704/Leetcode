@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VandanS-130704/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/VandanS-130704/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0171-excel-sheet-column-number](https://github.com/VandanS-130704/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VandanS-130704/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/VandanS-130704/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/VandanS-130704/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/VandanS-130704/Leetcode/tree/master/0048-rotate-image) |
+| [0171-excel-sheet-column-number](https://github.com/VandanS-130704/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/VandanS-130704/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VandanS-130704/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VandanS-130704/Leetcode/tree/master/0231-power-of-two) |
