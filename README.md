@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/VandanS-130704/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0171-excel-sheet-column-number](https://github.com/VandanS-130704/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0392-is-subsequence) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/VandanS-130704/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VandanS-130704/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/VandanS-130704/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/VandanS-130704/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VandanS-130704/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VandanS-130704/Leetcode/tree/master/0258-add-digits) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/VandanS-130704/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Hash Table
 |  |
 | ------- |
