@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/VandanS-130704/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/VandanS-130704/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VandanS-130704/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/VandanS-130704/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/VandanS-130704/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VandanS-130704/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0392-is-subsequence) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VandanS-130704/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/VandanS-130704/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/VandanS-130704/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/VandanS-130704/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/VandanS-130704/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VandanS-130704/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
