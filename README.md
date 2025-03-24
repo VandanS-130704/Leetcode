@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/VandanS-130704/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2665-minimum-time-to-repair-cars](https://github.com/VandanS-130704/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/VandanS-130704/Leetcode/tree/master/2690-house-robber-iv) |
+| [3430-count-days-without-meetings](https://github.com/VandanS-130704/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VandanS-130704/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/VandanS-130704/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VandanS-130704/Leetcode/tree/master/0088-merge-sorted-array) |
+| [3430-count-days-without-meetings](https://github.com/VandanS-130704/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Queue
 |  |
 | ------- |
