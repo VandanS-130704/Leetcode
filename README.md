@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/VandanS-130704/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VandanS-130704/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VandanS-130704/Leetcode/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/VandanS-130704/Leetcode/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VandanS-130704/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Hash Table
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/VandanS-130704/Leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/VandanS-130704/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/VandanS-130704/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/VandanS-130704/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
