@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
 | [0605-can-place-flowers](https://github.com/VandanS-130704/Leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/VandanS-130704/Leetcode/tree/master/0724-find-pivot-index) |
+| [0777-toeplitz-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1028-interval-list-intersections](https://github.com/VandanS-130704/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VandanS-130704/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/VandanS-130704/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/VandanS-130704/Leetcode/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
+| [0777-toeplitz-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0777-toeplitz-matrix) |
 ## Simulation
 |  |
 | ------- |
