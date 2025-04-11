@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
 | [0605-can-place-flowers](https://github.com/VandanS-130704/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/VandanS-130704/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/VandanS-130704/Leetcode/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1028-interval-list-intersections](https://github.com/VandanS-130704/Leetcode/tree/master/1028-interval-list-intersections) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/VandanS-130704/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VandanS-130704/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VandanS-130704/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
