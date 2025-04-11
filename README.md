@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VandanS-130704/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0392-is-subsequence) |
 | [1028-interval-list-intersections](https://github.com/VandanS-130704/Leetcode/tree/master/1028-interval-list-intersections) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/VandanS-130704/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VandanS-130704/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1028-interval-list-intersections](https://github.com/VandanS-130704/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VandanS-130704/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/VandanS-130704/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2665-minimum-time-to-repair-cars](https://github.com/VandanS-130704/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/VandanS-130704/Leetcode/tree/master/2690-house-robber-iv) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/VandanS-130704/Leetcode/tree/master/0202-happy-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VandanS-130704/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/VandanS-130704/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VandanS-130704/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3430-count-days-without-meetings](https://github.com/VandanS-130704/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Queue
 |  |
