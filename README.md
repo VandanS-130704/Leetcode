@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VandanS-130704/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/VandanS-130704/Leetcode/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1028-interval-list-intersections](https://github.com/VandanS-130704/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1168-duplicate-zeros](https://github.com/VandanS-130704/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VandanS-130704/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/VandanS-130704/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/VandanS-130704/Leetcode/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VandanS-130704/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VandanS-130704/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/VandanS-130704/Leetcode/tree/master/1500-count-largest-group) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/VandanS-130704/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/VandanS-130704/Leetcode/tree/master/0202-happy-number) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VandanS-130704/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/VandanS-130704/Leetcode/tree/master/1500-count-largest-group) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VandanS-130704/Leetcode/tree/master/0258-add-digits) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -272,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/VandanS-130704/Leetcode/tree/master/0292-nim-game) |
+## Counting
+|  |
+| ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
