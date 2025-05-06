@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/VandanS-130704/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1923-sentence-similarity-iii](https://github.com/VandanS-130704/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2048-build-array-from-permutation](https://github.com/VandanS-130704/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2665-minimum-time-to-repair-cars](https://github.com/VandanS-130704/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/VandanS-130704/Leetcode/tree/master/2690-house-robber-iv) |
 | [3430-count-days-without-meetings](https://github.com/VandanS-130704/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/VandanS-130704/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
+| [2048-build-array-from-permutation](https://github.com/VandanS-130704/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
