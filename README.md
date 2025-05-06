@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0968-beautiful-array](https://github.com/VandanS-130704/Leetcode/tree/master/0968-beautiful-array) |
 | [1028-interval-list-intersections](https://github.com/VandanS-130704/Leetcode/tree/master/1028-interval-list-intersections) |
+| [1094-matrix-cells-in-distance-order](https://github.com/VandanS-130704/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1168-duplicate-zeros](https://github.com/VandanS-130704/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VandanS-130704/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
 | [0777-toeplitz-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/VandanS-130704/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
+| [1094-matrix-cells-in-distance-order](https://github.com/VandanS-130704/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VandanS-130704/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Simulation
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/VandanS-130704/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0968-beautiful-array](https://github.com/VandanS-130704/Leetcode/tree/master/0968-beautiful-array) |
+| [1094-matrix-cells-in-distance-order](https://github.com/VandanS-130704/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VandanS-130704/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VandanS-130704/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/VandanS-130704/Leetcode/tree/master/1500-count-largest-group) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/VandanS-130704/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VandanS-130704/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1094-matrix-cells-in-distance-order](https://github.com/VandanS-130704/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3430-count-days-without-meetings](https://github.com/VandanS-130704/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Queue
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0928-surface-area-of-3d-shapes](https://github.com/VandanS-130704/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
+| [1094-matrix-cells-in-distance-order](https://github.com/VandanS-130704/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 ## Divide and Conquer
 |  |
 | ------- |
