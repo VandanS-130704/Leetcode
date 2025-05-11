@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VandanS-130704/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VandanS-130704/Leetcode/tree/master/0443-string-compression) |
+| [0878-shifting-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0878-shifting-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VandanS-130704/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/VandanS-130704/Leetcode/tree/master/1260-day-of-the-year) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VandanS-130704/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VandanS-130704/Leetcode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0777-toeplitz-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0878-shifting-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0878-shifting-letters) |
 | [0928-surface-area-of-3d-shapes](https://github.com/VandanS-130704/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0968-beautiful-array](https://github.com/VandanS-130704/Leetcode/tree/master/0968-beautiful-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VandanS-130704/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/VandanS-130704/Leetcode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0878-shifting-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0878-shifting-letters) |
 | [1833-find-the-highest-altitude](https://github.com/VandanS-130704/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VandanS-130704/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
