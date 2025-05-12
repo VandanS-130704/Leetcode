@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-beautiful-array](https://github.com/VandanS-130704/Leetcode/tree/master/0968-beautiful-array) |
 | [1028-interval-list-intersections](https://github.com/VandanS-130704/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1094-matrix-cells-in-distance-order](https://github.com/VandanS-130704/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1115-valid-boomerang](https://github.com/VandanS-130704/Leetcode/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/VandanS-130704/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/VandanS-130704/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0968-beautiful-array](https://github.com/VandanS-130704/Leetcode/tree/master/0968-beautiful-array) |
 | [1094-matrix-cells-in-distance-order](https://github.com/VandanS-130704/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1115-valid-boomerang](https://github.com/VandanS-130704/Leetcode/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VandanS-130704/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/VandanS-130704/Leetcode/tree/master/1260-day-of-the-year) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VandanS-130704/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0928-surface-area-of-3d-shapes](https://github.com/VandanS-130704/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [1094-matrix-cells-in-distance-order](https://github.com/VandanS-130704/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1115-valid-boomerang](https://github.com/VandanS-130704/Leetcode/tree/master/1115-valid-boomerang) |
 ## Divide and Conquer
 |  |
 | ------- |
