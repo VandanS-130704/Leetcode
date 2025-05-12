@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VandanS-130704/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VandanS-130704/Leetcode/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/VandanS-130704/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1028-interval-list-intersections](https://github.com/VandanS-130704/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1168-duplicate-zeros](https://github.com/VandanS-130704/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VandanS-130704/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VandanS-130704/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VandanS-130704/Leetcode/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/VandanS-130704/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0878-shifting-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0878-shifting-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VandanS-130704/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/VandanS-130704/Leetcode/tree/master/1260-day-of-the-year) |
