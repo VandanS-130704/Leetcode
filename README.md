@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/VandanS-130704/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/VandanS-130704/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/VandanS-130704/Leetcode/tree/master/1972-rotating-the-box) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/VandanS-130704/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VandanS-130704/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/VandanS-130704/Leetcode/tree/master/1972-rotating-the-box) |
 | [2048-build-array-from-permutation](https://github.com/VandanS-130704/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VandanS-130704/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/VandanS-130704/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/VandanS-130704/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/VandanS-130704/Leetcode/tree/master/2690-house-robber-iv) |
 | [3430-count-days-without-meetings](https://github.com/VandanS-130704/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VandanS-130704/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VandanS-130704/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/VandanS-130704/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/VandanS-130704/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/VandanS-130704/Leetcode/tree/master/2690-house-robber-iv) |
 ## Matrix
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/VandanS-130704/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VandanS-130704/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/VandanS-130704/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3430-count-days-without-meetings](https://github.com/VandanS-130704/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Queue
 |  |
