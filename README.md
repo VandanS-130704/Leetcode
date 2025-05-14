@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/VandanS-130704/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/VandanS-130704/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/VandanS-130704/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/VandanS-130704/Leetcode/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/VandanS-130704/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0878-shifting-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0878-shifting-letters) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/VandanS-130704/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/VandanS-130704/Leetcode/tree/master/0412-fizz-buzz) |
 | [1386-shift-2d-grid](https://github.com/VandanS-130704/Leetcode/tree/master/1386-shift-2d-grid) |
 | [2048-build-array-from-permutation](https://github.com/VandanS-130704/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Math
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/VandanS-130704/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/VandanS-130704/Leetcode/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/VandanS-130704/Leetcode/tree/master/0412-fizz-buzz) |
 | [0928-surface-area-of-3d-shapes](https://github.com/VandanS-130704/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0968-beautiful-array](https://github.com/VandanS-130704/Leetcode/tree/master/0968-beautiful-array) |
