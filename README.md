@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VandanS-130704/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
+| [0495-teemo-attacking](https://github.com/VandanS-130704/Leetcode/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/VandanS-130704/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/VandanS-130704/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VandanS-130704/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/VandanS-130704/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/VandanS-130704/Leetcode/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/VandanS-130704/Leetcode/tree/master/0495-teemo-attacking) |
 | [1386-shift-2d-grid](https://github.com/VandanS-130704/Leetcode/tree/master/1386-shift-2d-grid) |
 | [2048-build-array-from-permutation](https://github.com/VandanS-130704/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Math
