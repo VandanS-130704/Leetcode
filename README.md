@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/VandanS-130704/Leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/VandanS-130704/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/VandanS-130704/Leetcode/tree/master/0482-license-key-formatting) |
+| [0539-minimum-time-difference](https://github.com/VandanS-130704/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0696-count-binary-substrings](https://github.com/VandanS-130704/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0878-shifting-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0878-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0953-reverse-only-letters) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
 | [0495-teemo-attacking](https://github.com/VandanS-130704/Leetcode/tree/master/0495-teemo-attacking) |
+| [0539-minimum-time-difference](https://github.com/VandanS-130704/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0554-brick-wall](https://github.com/VandanS-130704/Leetcode/tree/master/0554-brick-wall) |
 | [0605-can-place-flowers](https://github.com/VandanS-130704/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/VandanS-130704/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/VandanS-130704/Leetcode/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/VandanS-130704/Leetcode/tree/master/0412-fizz-buzz) |
+| [0539-minimum-time-difference](https://github.com/VandanS-130704/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0928-surface-area-of-3d-shapes](https://github.com/VandanS-130704/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0968-beautiful-array](https://github.com/VandanS-130704/Leetcode/tree/master/0968-beautiful-array) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/VandanS-130704/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VandanS-130704/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0539-minimum-time-difference](https://github.com/VandanS-130704/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VandanS-130704/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1094-matrix-cells-in-distance-order](https://github.com/VandanS-130704/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VandanS-130704/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
