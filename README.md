@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VandanS-130704/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VandanS-130704/Leetcode/tree/master/0443-string-compression) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/VandanS-130704/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0696-count-binary-substrings](https://github.com/VandanS-130704/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VandanS-130704/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0953-reverse-only-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0953-reverse-only-letters) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
 | [0495-teemo-attacking](https://github.com/VandanS-130704/Leetcode/tree/master/0495-teemo-attacking) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/VandanS-130704/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/VandanS-130704/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0554-brick-wall](https://github.com/VandanS-130704/Leetcode/tree/master/0554-brick-wall) |
 | [0605-can-place-flowers](https://github.com/VandanS-130704/Leetcode/tree/master/0605-can-place-flowers) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VandanS-130704/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/VandanS-130704/Leetcode/tree/master/0162-find-peak-element) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/VandanS-130704/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VandanS-130704/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VandanS-130704/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VandanS-130704/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VandanS-130704/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/VandanS-130704/Leetcode/tree/master/0202-happy-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/VandanS-130704/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/VandanS-130704/Leetcode/tree/master/0554-brick-wall) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/VandanS-130704/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VandanS-130704/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/VandanS-130704/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/VandanS-130704/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VandanS-130704/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1094-matrix-cells-in-distance-order](https://github.com/VandanS-130704/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
