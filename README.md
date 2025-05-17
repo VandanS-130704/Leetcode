@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
 | [0495-teemo-attacking](https://github.com/VandanS-130704/Leetcode/tree/master/0495-teemo-attacking) |
+| [0554-brick-wall](https://github.com/VandanS-130704/Leetcode/tree/master/0554-brick-wall) |
 | [0605-can-place-flowers](https://github.com/VandanS-130704/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/VandanS-130704/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VandanS-130704/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VandanS-130704/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VandanS-130704/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/VandanS-130704/Leetcode/tree/master/0202-happy-number) |
+| [0554-brick-wall](https://github.com/VandanS-130704/Leetcode/tree/master/0554-brick-wall) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VandanS-130704/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
