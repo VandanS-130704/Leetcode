@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/VandanS-130704/Leetcode/tree/master/1972-rotating-the-box) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/VandanS-130704/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VandanS-130704/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2481-strictly-palindromic-number](https://github.com/VandanS-130704/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VandanS-130704/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/VandanS-130704/Leetcode/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/VandanS-130704/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/VandanS-130704/Leetcode/tree/master/2083-three-divisors) |
+| [2481-strictly-palindromic-number](https://github.com/VandanS-130704/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/VandanS-130704/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/VandanS-130704/Leetcode/tree/master/0319-bulb-switcher) |
+| [2481-strictly-palindromic-number](https://github.com/VandanS-130704/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String Matching
 |  |
 | ------- |
