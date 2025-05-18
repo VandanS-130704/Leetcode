@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VandanS-130704/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VandanS-130704/Leetcode/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/VandanS-130704/Leetcode/tree/master/0481-magical-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VandanS-130704/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0696-count-binary-substrings](https://github.com/VandanS-130704/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VandanS-130704/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/VandanS-130704/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/VandanS-130704/Leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/VandanS-130704/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0481-magical-string](https://github.com/VandanS-130704/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/VandanS-130704/Leetcode/tree/master/0482-license-key-formatting) |
 | [0539-minimum-time-difference](https://github.com/VandanS-130704/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0696-count-binary-substrings](https://github.com/VandanS-130704/Leetcode/tree/master/0696-count-binary-substrings) |
