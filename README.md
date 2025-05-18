@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/VandanS-130704/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/VandanS-130704/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/VandanS-130704/Leetcode/tree/master/1972-rotating-the-box) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/VandanS-130704/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VandanS-130704/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VandanS-130704/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VandanS-130704/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/VandanS-130704/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/VandanS-130704/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/VandanS-130704/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VandanS-130704/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/VandanS-130704/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/VandanS-130704/Leetcode/tree/master/1972-rotating-the-box) |
 | [2048-build-array-from-permutation](https://github.com/VandanS-130704/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/VandanS-130704/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VandanS-130704/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VandanS-130704/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/VandanS-130704/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
