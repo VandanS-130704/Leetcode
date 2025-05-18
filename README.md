@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/VandanS-130704/Leetcode/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/VandanS-130704/Leetcode/tree/master/0481-magical-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VandanS-130704/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/VandanS-130704/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/VandanS-130704/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VandanS-130704/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0827-expressive-words](https://github.com/VandanS-130704/Leetcode/tree/master/0827-expressive-words) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/VandanS-130704/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/VandanS-130704/Leetcode/tree/master/0482-license-key-formatting) |
 | [0539-minimum-time-difference](https://github.com/VandanS-130704/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/VandanS-130704/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/VandanS-130704/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0827-expressive-words](https://github.com/VandanS-130704/Leetcode/tree/master/0827-expressive-words) |
 | [0874-backspace-string-compare](https://github.com/VandanS-130704/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/VandanS-130704/Leetcode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/VandanS-130704/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/VandanS-130704/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0928-surface-area-of-3d-shapes](https://github.com/VandanS-130704/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0968-beautiful-array](https://github.com/VandanS-130704/Leetcode/tree/master/0968-beautiful-array) |
