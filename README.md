@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/VandanS-130704/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VandanS-130704/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0827-expressive-words](https://github.com/VandanS-130704/Leetcode/tree/master/0827-expressive-words) |
+| [0874-backspace-string-compare](https://github.com/VandanS-130704/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1028-interval-list-intersections](https://github.com/VandanS-130704/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1168-duplicate-zeros](https://github.com/VandanS-130704/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/VandanS-130704/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0696-count-binary-substrings](https://github.com/VandanS-130704/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0827-expressive-words](https://github.com/VandanS-130704/Leetcode/tree/master/0827-expressive-words) |
+| [0874-backspace-string-compare](https://github.com/VandanS-130704/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0878-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VandanS-130704/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/VandanS-130704/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/VandanS-130704/Leetcode/tree/master/0495-teemo-attacking) |
+| [0874-backspace-string-compare](https://github.com/VandanS-130704/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1386-shift-2d-grid](https://github.com/VandanS-130704/Leetcode/tree/master/1386-shift-2d-grid) |
 | [2048-build-array-from-permutation](https://github.com/VandanS-130704/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Math
@@ -415,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0731-my-calendar-ii) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/VandanS-130704/Leetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
