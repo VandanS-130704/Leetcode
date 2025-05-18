@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/VandanS-130704/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/VandanS-130704/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VandanS-130704/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/VandanS-130704/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VandanS-130704/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VandanS-130704/Leetcode/tree/master/0443-string-compression) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/VandanS-130704/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/VandanS-130704/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/VandanS-130704/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/VandanS-130704/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
 | [0495-teemo-attacking](https://github.com/VandanS-130704/Leetcode/tree/master/0495-teemo-attacking) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VandanS-130704/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/VandanS-130704/Leetcode/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/VandanS-130704/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VandanS-130704/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VandanS-130704/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/VandanS-130704/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/VandanS-130704/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/VandanS-130704/Leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/VandanS-130704/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VandanS-130704/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
 |  |
