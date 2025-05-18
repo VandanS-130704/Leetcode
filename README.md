@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/VandanS-130704/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/VandanS-130704/Leetcode/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/VandanS-130704/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VandanS-130704/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/VandanS-130704/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VandanS-130704/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/VandanS-130704/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/VandanS-130704/Leetcode/tree/master/2690-house-robber-iv) |
 | [2698-find-the-array-concatenation-value](https://github.com/VandanS-130704/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VandanS-130704/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VandanS-130704/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/VandanS-130704/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3430-count-days-without-meetings](https://github.com/VandanS-130704/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VandanS-130704/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2634-minimum-common-value](https://github.com/VandanS-130704/Leetcode/tree/master/2634-minimum-common-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VandanS-130704/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sliding Window
 |  |
 | ------- |
