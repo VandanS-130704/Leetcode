@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VandanS-130704/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/VandanS-130704/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/VandanS-130704/Leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/VandanS-130704/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/VandanS-130704/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/VandanS-130704/Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/VandanS-130704/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/VandanS-130704/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/VandanS-130704/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VandanS-130704/Leetcode/tree/master/0202-happy-number) |
@@ -488,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/VandanS-130704/Leetcode/tree/master/0874-backspace-string-compare) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/VandanS-130704/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
