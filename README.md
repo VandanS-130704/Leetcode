@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/VandanS-130704/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2083-three-divisors](https://github.com/VandanS-130704/Leetcode/tree/master/2083-three-divisors) |
 | [2481-strictly-palindromic-number](https://github.com/VandanS-130704/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3201-distribute-candies-among-children-ii](https://github.com/VandanS-130704/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-super-palindromes](https://github.com/VandanS-130704/Leetcode/tree/master/0942-super-palindromes) |
 | [2083-three-divisors](https://github.com/VandanS-130704/Leetcode/tree/master/2083-three-divisors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VandanS-130704/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/VandanS-130704/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -494,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VandanS-130704/Leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/VandanS-130704/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
