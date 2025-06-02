@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VandanS-130704/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/VandanS-130704/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/VandanS-130704/Leetcode/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/VandanS-130704/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/VandanS-130704/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/VandanS-130704/Leetcode/tree/master/0396-rotate-function) |
 | [0495-teemo-attacking](https://github.com/VandanS-130704/Leetcode/tree/master/0495-teemo-attacking) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VandanS-130704/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/VandanS-130704/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/VandanS-130704/Leetcode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0878-shifting-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0878-shifting-letters) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/VandanS-130704/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
