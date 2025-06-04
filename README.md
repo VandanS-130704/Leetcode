@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VandanS-130704/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/VandanS-130704/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VandanS-130704/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VandanS-130704/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/VandanS-130704/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/VandanS-130704/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VandanS-130704/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VandanS-130704/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/VandanS-130704/Leetcode/tree/master/2083-three-divisors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VandanS-130704/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/VandanS-130704/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VandanS-130704/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Geometry
 |  |
 | ------- |
