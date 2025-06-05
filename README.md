@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0878-shifting-letters) |
 | [0942-super-palindromes](https://github.com/VandanS-130704/Leetcode/tree/master/0942-super-palindromes) |
 | [0953-reverse-only-letters](https://github.com/VandanS-130704/Leetcode/tree/master/0953-reverse-only-letters) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/VandanS-130704/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VandanS-130704/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/VandanS-130704/Leetcode/tree/master/1260-day-of-the-year) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VandanS-130704/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/VandanS-130704/Leetcode/tree/master/0130-surrounded-regions) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/VandanS-130704/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Database
 |  |
 | ------- |
