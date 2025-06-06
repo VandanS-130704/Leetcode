@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/VandanS-130704/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/VandanS-130704/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/VandanS-130704/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VandanS-130704/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VandanS-130704/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VandanS-130704/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/VandanS-130704/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VandanS-130704/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VandanS-130704/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2634-minimum-common-value](https://github.com/VandanS-130704/Leetcode/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VandanS-130704/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sliding Window
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VandanS-130704/Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/VandanS-130704/Leetcode/tree/master/0605-can-place-flowers) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/VandanS-130704/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VandanS-130704/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VandanS-130704/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bit Manipulation
 |  |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/VandanS-130704/Leetcode/tree/master/0874-backspace-string-compare) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VandanS-130704/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Memoization
 |  |
 | ------- |
