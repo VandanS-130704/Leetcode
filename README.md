@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VandanS-130704/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VandanS-130704/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VandanS-130704/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VandanS-130704/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VandanS-130704/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2634-minimum-common-value](https://github.com/VandanS-130704/Leetcode/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VandanS-130704/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VandanS-130704/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/VandanS-130704/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VandanS-130704/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VandanS-130704/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VandanS-130704/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Enumeration
 |  |
 | ------- |
