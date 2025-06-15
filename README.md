@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/VandanS-130704/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VandanS-130704/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VandanS-130704/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/VandanS-130704/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/VandanS-130704/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/VandanS-130704/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/VandanS-130704/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VandanS-130704/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/VandanS-130704/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VandanS-130704/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/VandanS-130704/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VandanS-130704/Leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/VandanS-130704/Leetcode/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/VandanS-130704/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VandanS-130704/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VandanS-130704/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
